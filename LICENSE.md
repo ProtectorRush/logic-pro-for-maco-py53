@@ -1,4 +1,4 @@
-
+vip Plugin for Logic Pro for macOS - green-screen-removal and keyframe-animation is the best Logic Pro for macOS plugin, featuring green-screen-removal and keyframe-animation.
 
 
 
